@@ -1,0 +1,149 @@
+body{
+	margin:0px;
+    padding:0px;
+}
+.section{
+	margin:0px 0px 0px 0px;
+}
+.top-header{
+    margin-left: 0px;
+    margin-right: 0px;   
+    background-color:#313131;
+    font:bold 120px pacifico;
+    padding-top: 5rem;
+    padding-bottom: 5rem; 
+}
+.nav-line-distant{
+	text-indent: 3rem;
+	padding-right: 5rem;
+}
+#name{
+	color:skyblue;
+}
+.short-intro{
+	color: #fff;
+	padding-left: 5rem;
+	font:bold 120px pacifico;
+	line-height: 2;
+}
+.image{
+	padding-top: 10rem;
+	padding-bottom:10rem;
+	padding-left: 150px;
+}
+.image-box{
+	background: black;
+}
+.text{
+	text-align: center;
+	padding-top: 8rem;
+	padding-bottom: 8rem;
+	font: bold 10rem Spicy Rice;
+}
+.text-box{
+	padding-left: 12rem;
+	background: black;
+}
+.descript{
+	background:#fff;
+}
+.about-me{
+	
+	padding-top: 6rem;
+	padding-bottom: 5rem;
+}
+.type{
+	border-radius: 10px;
+	max-width: 50rem;
+	margin-bottom: 50px;
+	margin-left: 38rem;
+	background:#ecfbfc; 
+	font:bold 120px Fredoka One;
+}
+.intro{
+	padding-left: 40rem;
+	padding-top: 40px;
+	padding-bottom: 5rem;
+	font:bold 120px Rokkitt;
+	/*display: none;*/
+}
+.study{
+	padding-top: 50px;
+	margin-left: 40rem;
+	padding-bottom: 70px;
+}
+.gain{
+	margin-top: -32px;
+	background: #ffcdab;
+ }
+#edu{
+	padding-top: 2rem;
+ 	font:bold 150px Acme;
+ 	line-height: 1.8;
+ }
+ .edu-title{
+   font:bold 100px arial;
+   line-height: 1.8;	
+ } 
+ .head{
+ 	line-height: 1.8;
+ 	padding-left: 80px;
+ 	font:bold 130px Acme;
+ 	text-decoration-line:underline;                /**TO UNDERLINE SOMETHING*/
+ }
+ #board{
+ 	font:bold 60px Cinzel;
+ 	line-height: 1;
+ 	padding-left: 15rem;
+    padding-bottom: 4rem;
+ }
+ #line-space{
+ 	line-height: 2;
+ }
+ .foot-r{
+ 	padding: 10rem 0px 10rem 0px;
+ }
+ #footer{
+ 	background: #feffdb;
+ }
+#pre-foot{
+text-align:center;
+font:bold 150px Fredoka One;
+line-height: 2;
+}
+#quotes{
+text-align:center;
+font:bold 120px Sacramento;
+line-height: 2;
+}
+.social-medie{
+    margin-top: 15rem;
+    margin-left:40rem;
+}
+.for-contact{
+	padding-top: 4rem;
+	padding-left:35rem; 
+	font:bold 80px arial;
+}
+.how-contact{
+   padding-top: 3rem;
+   padding-left:35rem; 
+   font:bold 60px arial;
+}
+.social-media{
+    margin-top:15rem;
+    margin-left:75rem;	
+}
+#bott-m{
+	background: #443737;
+}
+.third{
+	padding-right: 10rem;
+}
+#last{
+	font:bold 80px arial; 
+	text-align:center;
+	padding-top: 10rem;
+	padding-bottom: 10rem;
+    color:#fff;
+}

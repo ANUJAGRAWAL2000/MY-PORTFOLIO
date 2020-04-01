@@ -1,0 +1,11 @@
+$(document).ready(function(){
+$('.first').click(function(){
+$('.person').stop().fadeToggle(1000);
+});
+$('.second').click(function(){
+$('.hobb').stop().fadeToggle(1000);
+});
+$('.third').click(function(){
+$('.skill').stop().fadeToggle(1000);
+});  
+});
